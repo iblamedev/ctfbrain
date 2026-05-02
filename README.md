@@ -7,7 +7,7 @@ ctfbrain is an experimental CTF automation tool that detects challenge types and
 ## Installation
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/ctfbrain.git
+git clone https://github.com/iblamedev/ctfbrain.git
 cd ctfbrain
 python3 -m venv .venv
 source .venv/bin/activate
