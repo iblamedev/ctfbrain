@@ -64,3 +64,10 @@ paramiko>=3.0.0
 Pillow>=10.0.0
 colorama>=0.4.6
 
+## Screenshots
+
+<img width="1545" height="813" alt="image" src="https://github.com/user-attachments/assets/3af8660e-405a-4d8d-875b-9e4f58efeb01" />
+
+<img width="508" height="599" alt="image" src="https://github.com/user-attachments/assets/1540c513-cbc3-4e72-a242-69a36bcf62b8" />
+
+The above images shown are example screenshots of a PicoGym WebDecode challenge.
