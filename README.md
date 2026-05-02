@@ -52,3 +52,13 @@ python3 ctfbrain.py http://example.com
 
 MCP (Model Context Protocol) integration is planned for future releases.
 
+## Requirements
+
+pycryptodome>=3.19.0
+sympy>=1.12
+pwntools>=4.11.0
+requests>=2.31.0
+paramiko>=3.0.0
+Pillow>=10.0.0
+colorama>=0.4.6
+
