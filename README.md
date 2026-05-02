@@ -40,9 +40,11 @@ python3 ctfbrain.py http://example.com
 
     Privilege escalation (CTF use only)
 
+    many more..
+
 ## Known Limitations
 
-    Many modules are incomplete
+    Many modules are incomplete (enhancements can be done)
 
     False positives are common
 
